@@ -1,0 +1,15 @@
+C:\Users\Atilla\source\repos\Car-Class\Car-Class\bin\Debug\net6.0\Car-Class.exe
+C:\Users\Atilla\source\repos\Car-Class\Car-Class\bin\Debug\net6.0\Car-Class.deps.json
+C:\Users\Atilla\source\repos\Car-Class\Car-Class\bin\Debug\net6.0\Car-Class.runtimeconfig.json
+C:\Users\Atilla\source\repos\Car-Class\Car-Class\bin\Debug\net6.0\Car-Class.dll
+C:\Users\Atilla\source\repos\Car-Class\Car-Class\bin\Debug\net6.0\Car-Class.pdb
+C:\Users\Atilla\source\repos\Car-Class\Car-Class\obj\Debug\net6.0\Car-Class.csproj.AssemblyReference.cache
+C:\Users\Atilla\source\repos\Car-Class\Car-Class\obj\Debug\net6.0\Car-Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atilla\source\repos\Car-Class\Car-Class\obj\Debug\net6.0\Car-Class.AssemblyInfoInputs.cache
+C:\Users\Atilla\source\repos\Car-Class\Car-Class\obj\Debug\net6.0\Car-Class.AssemblyInfo.cs
+C:\Users\Atilla\source\repos\Car-Class\Car-Class\obj\Debug\net6.0\Car-Class.csproj.CoreCompileInputs.cache
+C:\Users\Atilla\source\repos\Car-Class\Car-Class\obj\Debug\net6.0\Car-Class.dll
+C:\Users\Atilla\source\repos\Car-Class\Car-Class\obj\Debug\net6.0\refint\Car-Class.dll
+C:\Users\Atilla\source\repos\Car-Class\Car-Class\obj\Debug\net6.0\Car-Class.pdb
+C:\Users\Atilla\source\repos\Car-Class\Car-Class\obj\Debug\net6.0\Car-Class.genruntimeconfig.cache
+C:\Users\Atilla\source\repos\Car-Class\Car-Class\obj\Debug\net6.0\ref\Car-Class.dll
