@@ -1,4 +1,6 @@
-﻿class Car
+﻿using System.Xml.Schema;
+
+class Car
 {
     private string _model;
     private string _modelInfo;
@@ -16,18 +18,18 @@
         get { return _model; }
         set
         {
-            if (value == null || value.Length < 2 || value.Length > 10) { _modelInfo = $"({value}? Menim masindan basim cixmir, ancaq, mence, bele model yoxdur.)"; }
+            if (string.IsNullOrWhiteSpace(value) || value.Length < 2 || value.Length > 10) { _modelInfo = $"('{value}'? Menim masindan basim cixmir, ancaq, mence, bele model yoxdur.)"; }
             else { _model = value; }
         }
     }
-
+    
     public int TopSpeed
     {
         get { return _topSpeed; }
         set
         {
-            if (value < 10) { _topSpeedInfo = $"({value}? Piyada getmeyinizi tovsiyye ederdim.)"; }
-            else if (value > 1000) { _topSpeedInfo = $"({value}? Atma Ziya)"; }
+            if (value < 10) { _topSpeedInfo = $"({value} km/saat? Piyada getmeyinizi tovsiyye ederdim.)"; }
+            else if (value > 1000) { _topSpeedInfo = $"({value} km/saat? Atma Ziya)"; }
             else { _topSpeed = value; }
         }
     }
